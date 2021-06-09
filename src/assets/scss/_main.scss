@@ -1,0 +1,16 @@
+@import './colors';
+
+#main {
+    width: 100%;
+    height: auto;
+    display: row;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+    #content-home {
+        font-size: 30px;
+    }
+    #content-home-h1 {
+        font-size: 35px;
+    }
+}
