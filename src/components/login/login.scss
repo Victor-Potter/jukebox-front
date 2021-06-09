@@ -1,12 +1,31 @@
 @import '@/assets/scss/_main';
 
 #main {
-    height: 80vh;
-}
+    text-align: center;
 
-#login-view {
-    
-    h1{
-        color: blue;
+    #login-view {
+        
+        h1{
+            color: blue;
+        }
+    }
+
+    #login-form {
+        width: 750px;
+        height: 500px;
+        font-weight: bold;
+        
+        #login-check-btn {
+            text-align: left;
+
+            label {
+                margin-left: 7px;
+            }
+        }
+
+        #login-btn-submit {
+            width: 200px;
+            border-radius: 25px;
+        }
     }
 }

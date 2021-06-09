@@ -1,14 +1,9 @@
 <template>
 
-    <div id="main" class="container-fluid mt-5">
-        <div id="login-view" class="container m-4">
-            <h1>Login - View</h1>
-
-            <LoginComponent 
-                msg="Faça seu login e entenda como funciona esta aplicação básica com Vue.js."
-            
-            />
-        </div>
+    <div id="main" class="container bg-light text-center">
+        <LoginComponent 
+            msg="Faça seu login e entenda como funciona esta aplicação básica com Vue.js."
+        />
     </div>
     
 </template>
