@@ -1,4 +1,5 @@
 <template>
+
     <div id="main" class="container-fluid mt-5">
         <div id="login-view" class="container m-4">
             <h1>Login - View</h1>
@@ -9,6 +10,7 @@
             />
         </div>
     </div>
+    
 </template>
 
 <script>
