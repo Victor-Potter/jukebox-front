@@ -1,12 +1,12 @@
 <template>
     <div id="main" class="container-fluid">
 
-        <div class="container mt-5 shadow border border-2">
+        <div class="container mt-5 shadow border border-2 bg-light">
 
             <div class="container-fluid mt-5 p-5">
                 <h3>Novo Cadastro</h3>
                 <hr>
-                <div class="container mt-5 p-5 bg-light">
+                <div class="container mt-5 p-5">
                     
                     <form class="row g-3 fw-bold">
 
