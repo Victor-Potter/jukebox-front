@@ -6,7 +6,7 @@
 
     <div id="content-home" class="container-fluid mt-5">
       <h5 id="content-home-h1">
-        Primeiro projeto da <strong>PttR Digital Agency</strong> em Vue.js com consumo em API REST.
+        Primeiro projeto da <strong>PttR Digital Agency</strong> com Vue.js e consumo em API.
       </h5>
       <p>
         Font-end .: Vue.js + Boostrap |

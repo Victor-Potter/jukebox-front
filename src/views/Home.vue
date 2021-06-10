@@ -8,7 +8,7 @@
             width="500" height="600">
     </div>
     
-    <HelloWorld msg="[Project Test] - Jukebox"/>
+    <HelloWorld msg="[Projeto Teste] - API REST"/>
 
   </div>
 

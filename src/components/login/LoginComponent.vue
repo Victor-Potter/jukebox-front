@@ -41,7 +41,7 @@
                     <div class="container mt-4">
                     <button id="login-btn-submit" type="submit" class="btn btn-success">Sign in</button>
                     <hr>
-                    <a href="#">Faça seu cadastro aqui</a>
+                    <router-link to="/register">Faça seu Cadastro</router-link>
                     </div>
                 </form>
 
