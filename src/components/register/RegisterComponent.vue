@@ -5,8 +5,8 @@
 
             <div class="container-fluid mt-5 p-5">
                 <h3>Novo Cadastro</h3>
-
-                <div class="container mt-5">
+                <hr>
+                <div class="container mt-5 p-5 bg-light">
                     
                     <form class="row g-3 fw-bold">
 
