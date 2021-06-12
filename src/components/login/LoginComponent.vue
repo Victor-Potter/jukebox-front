@@ -24,7 +24,7 @@
                         </div>
                     </div>
 
-                    <fieldset class="row mb-3">
+                    <!-- <fieldset class="row mb-3">
                         <legend class="col-form-label col-md-2 pt-0">Documento:</legend>
                         <div class="col-md-10">
                             <div id="login-check-btn" class="container p-1">
@@ -36,10 +36,10 @@
                                 <label class="form-check-label" for="gridRadios2">CNPJ</label>
                             </div>                        
                         </div>
-                    </fieldset>
+                    </fieldset> -->
                     
-                    <div class="container mt-4">
-                    <button id="login-btn-submit" type="submit" class="btn btn-success">Sign in</button>
+                    <div class="container mt-5">
+                    <button id="login-btn-submit" type="submit" class="btn btn-success mb-2">Sign in</button>
                     <hr>
                     <router-link to="/register">Faça seu Cadastro</router-link>
                     </div>

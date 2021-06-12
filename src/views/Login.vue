@@ -2,7 +2,7 @@
 
     <div id="main" class="container bg-light text-center">
         <LoginComponent 
-            msg="Faça seu login e entenda como funciona esta aplicação básica com Vue.js."
+            msg="Faça seu login"
         />
     </div>
     
